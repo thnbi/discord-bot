@@ -1,0 +1,10 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "thnbi <renato_freitas13@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.8.0"
+  }
+}
